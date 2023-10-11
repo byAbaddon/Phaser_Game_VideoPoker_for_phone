@@ -20,7 +20,9 @@
 soon
 
 ## Screenshots:
-soon
+![1](https://github.com/byAbaddon/Phaser_Game_VideoPoker_for_phone/assets/51271834/ccf221d3-78a6-4b10-8c88-dcb0618b4750)
+
+
 
 ### Download
 #### Created with Phaser 3 and converted for android mobile app.
