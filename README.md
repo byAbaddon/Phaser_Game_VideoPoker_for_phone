@@ -11,10 +11,16 @@
 + +
 
 # Game - Video Poker
-- info soon
+Five Card Poker is a classic and exciting game also known as "Five Card Draw" that is played with a deck of 52 cards.
+It requires not only luck, but also skill, strategy and attention.
+In this version, for more fun, a Joker card has been added, which can replace any other card.
 
 ## Playing the game
- soon
+How to play?
+At the start, players are dealt five cards and a credit of 100 points.
+The player can then replace several of these in an attempt to improve his hand, aiming to make the best possible combination for which he receives the corresponding points.
+A bet can be made, from 1 to 15 credits, which increase the profit.
+If the credit points run out, the game ends.
 
 ## Short video intro:
 soon
