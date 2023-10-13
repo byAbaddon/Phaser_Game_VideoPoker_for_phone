@@ -33,7 +33,7 @@ soon
 ### Download
 #### Created with Phaser 3 and converted for android mobile app.
 ##### download apk file:
-[soon](https://github.com/byAbaddon/Phaser_Game_VideoPoker_for_phone/releases/tag/VideoPoker)
+(https://github.com/byAbaddon/Phaser_Game_VideoPoker_for_phone/releases/tag/VideoPoker)
 
 
 ### Prerequisites
