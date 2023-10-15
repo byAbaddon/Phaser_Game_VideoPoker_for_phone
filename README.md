@@ -20,7 +20,7 @@ How to play?
 At the start, players are dealt five cards and a credit of 100 points.
 The player can then replace several of these in an attempt to improve his hand, aiming to make the best possible combination for which he receives the corresponding points.
 A bet can be made, from 1 to 15 credits, which increase the profit.
-If the credit points run out, the game ends.
+If the credit points run out, the game over.
 
 ## Short video intro:
 soon
