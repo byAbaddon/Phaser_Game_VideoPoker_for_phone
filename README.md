@@ -8,7 +8,7 @@
 + bable
 + cordova
 + android stuido
-+ +
++ consultant assistance ChatGPT
 
 # Game - Video Poker
 Five Card Poker is a classic and exciting game also known as "Five Card Draw" that is played with a deck of 52 cards.
