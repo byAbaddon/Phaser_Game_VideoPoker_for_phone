@@ -53,7 +53,8 @@ const cfg = {
     betCounter: 1,
     isGameBegin: false,
     isBetMax: false,
-    isPlayBgSound: false, 
+    isPlayBgSound: false,
+    isPausedSound: false,
     globalDataJSON: null, // Set initial JSON value to null
     globalImages: null, 
   }
