@@ -11,10 +11,10 @@ import checkOrientation from "./functions/checkOrientation";
 import { LoadScene } from "./scenes/loadScene";
 import { IntroScene } from "./scenes/introScene";
 import { MenuScene } from "./scenes/menuScene";
-import { ReloadScene } from "./scenes/reloadScene";
 import { GameScene } from "./scenes/gameScene";
 import { CreditsScene } from "./scenes/creditsScene";
-import { GameOverScene } from "./scenes/gameOverScene";
+import { ReloadScene } from "./scenes/reloadScene";
+// import { GameOverScene } from "./scenes/gameOverScene";
 // import { StartScene } from "./scenes/startScene";
 
 
@@ -27,7 +27,7 @@ const cfg = {
   backgroundColor: 'rgb(0, 0, 0)', //'rgb(0,0,100)'
   type: Phaser.AUTO,
   parent: 'game',
-  scene: [LoadScene, IntroScene, MenuScene, GameScene, CreditsScene, ReloadScene, GameOverScene],
+  scene: [LoadScene, IntroScene, MenuScene, CreditsScene, GameScene, ReloadScene],
   physics: {
     default: 'arcade',
     arcade: {
@@ -53,7 +53,7 @@ const cfg = {
     betCounter: 1,
     isGameBegin: false,
     isBetMax: false,
-    isPlayBgSound: false,
+    isPlayBgSound: false, 
     isPausedSound: false,
     globalDataJSON: null, // Set initial JSON value to null
     globalImages: null, 
