@@ -26,6 +26,11 @@ If the credit points run out, the game over.
 soon
 
 ## Screenshots:
+![1](https://github.com/byAbaddon/Phaser_Game_VideoPoker_for_phone/assets/51271834/d6180bdc-d57d-468d-8e97-36436ae6840b)
+![2](https://github.com/byAbaddon/Phaser_Game_VideoPoker_for_phone/assets/51271834/550f9f27-1aa5-4b63-aae1-4b2b1957261c)
+![3](https://github.com/byAbaddon/Phaser_Game_VideoPoker_for_phone/assets/51271834/6d9b82e9-521b-46e7-afc1-11ce3e3a1c0a)
+![4](https://github.com/byAbaddon/Phaser_Game_VideoPoker_for_phone/assets/51271834/6ec9183e-1407-49cf-8392-8de43d844341)
+![5](https://github.com/byAbaddon/Phaser_Game_VideoPoker_for_phone/assets/51271834/97c6b995-a6e1-47ad-bea5-70e1e44998cc)
 ![1](https://github.com/byAbaddon/Phaser_Game_VideoPoker_for_phone/assets/51271834/ccf221d3-78a6-4b10-8c88-dcb0618b4750)
 
 
