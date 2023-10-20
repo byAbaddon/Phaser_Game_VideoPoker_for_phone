@@ -23,7 +23,7 @@ A bet can be made, from 1 to 15 credits, which increase the profit.
 If the credit points run out, the game over.
 
 ## Short video intro:
-soon
+https://youtu.be/1mvmhJJ5jXM
 
 ## Screenshots:
 ![1](https://github.com/byAbaddon/Phaser_Game_VideoPoker_for_phone/assets/51271834/d6180bdc-d57d-468d-8e97-36436ae6840b)
